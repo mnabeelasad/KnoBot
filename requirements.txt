@@ -1,0 +1,34 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langgraph
+langchain-openai
+python-dotenv
+
+#####
+openai
+python-multipart
+
+#####for authentication and security
+passlib==1.7.4
+python-jose[cryptography]
+
+###GRAPH Visualizationnnnn
+# streamlit-mermaid
+pyvis
+
+#Text-splitter-vector store
+qdrant-client
+langchain-text-splitters
+pypdf 
+sentence-transformers
+langchain-huggingface
+langchain-qdrant
+##DATABASE
+sqlalchemy
+psycopg2-binary
+
+#Qdrant Libraries
+qdrant-client>=1.7.0
+langchain-qdrant>=0.1.0
