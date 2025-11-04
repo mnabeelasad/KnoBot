@@ -1,0 +1,21 @@
+# Environment variables
+# This is the most important line to protect your secrets!
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated files from our app
+temp_uploads/
+graph.html
+
+# IDE-specific folders (e.g., for VS Code)
+.vscode/
