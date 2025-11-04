@@ -2,8 +2,8 @@
 
 KnoBot is a full-stack AI application that lets you upload your private documents (like PDFs) and then ask questions about them. It's built with a secure FastAPI backend and an interactive Streamlit frontend.
 
-![KnoBot Application Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Suggestion: Replace this with a real screenshot of your app!)*
+<img width="1916" height="825" alt="image" src="https://github.com/user-attachments/assets/31bd8abc-9280-4ee4-91ac-9d0e19fdb567" />
+
 
 ---
 
